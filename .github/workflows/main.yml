@@ -1,6 +1,6 @@
 name: CI/CD Site HTML
 
-permission:
+permissions:
   contents: write
 
 on:
